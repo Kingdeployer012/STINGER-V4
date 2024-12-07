@@ -1,19 +1,19 @@
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "STINGER-V4"
-global.dana = "2348187637779"
+global.storename = "I T S M E"
+global.dana = "12397445120"
 global.qris = "https://i.ibb.co/BnYRXcw/STINGER-V4.jpg"
 
 
 // GLOBAL SETTING
-global.owner = "2348187637779"
-global.namabot = " S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 4҉"
-global.nomorbot = "2348187637779"
-global.namaCreator = "ES TEAMS"
-global.linkyt = "https://youtube.com/@esteams"
+global.owner = "12397445120"
+global.namabot = " I T S M E"
+global.nomorbot = "12397445120"
+global.namaCreator = "I T S M E"
+global.linkyt = ""
 global.autoJoin = false
-global.antilink = false
+global.antilink = true
 global.versisc = '4.0.2'
 
 // DELAY JPM
@@ -32,10 +32,10 @@ global.location = '1'
 
 global.codeInvite = ""
 global.imageurl = 'https://i.ibb.co/BnYRXcw/STINGER-V4.jpg'
-global.isLink = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
-global.packname = "ES TEAMS"
-global.author = "ES TEAMS"
-global.jumlah = "5"
+global.isLink = ''
+global.packname = "I T S M E"
+global.author = "I T S M E"
+global.jumlah = "3"
 
 
 let file = require.resolve(__filename)
